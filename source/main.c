@@ -1,5 +1,5 @@
 /**
-* @file hallo-world.c
+* @file main.c
 * @brief CCIMX93 Development board Hello World Application
 * @author Pieter Kruger
 * @date 2025-07-18
